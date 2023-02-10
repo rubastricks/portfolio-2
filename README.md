@@ -1,6 +1,6 @@
 # Personal Portfolio 🖼️ 
 
-[Here](https://rubasalisson.com/) is my personal Portfolio to show off my projects as a Web Dev 💻 
+[Here](https://rubasalisson.com/) is my personal Portfolio to show off my projects as a Software Engineer 💻 
 
 ## Features 🤓
 
